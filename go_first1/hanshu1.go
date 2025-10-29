@@ -17,6 +17,9 @@ func r1() {
 func r2() bool {
 	return true
 }
+
+// r3
+
 func r3() (string, bool) {
 	if 1 > 2 {
 		return "", false
